@@ -1,0 +1,157 @@
+{
+ "categories": [
+  {
+   "id": "char",
+   "zh": "人物",
+   "vi": "Nhân vật"
+  }
+ ],
+ "groups": [
+  {
+   "id": "yangling",
+   "zh": "杨灵",
+   "vi": "Dương Linh",
+   "category": "char"
+  },
+  {
+   "id": "luming",
+   "zh": "陆明",
+   "vi": "Lục Minh",
+   "category": "char"
+  },
+  {
+   "id": "qinmo",
+   "zh": "秦墨",
+   "vi": "Tần Mặc",
+   "category": "char"
+  }
+ ],
+ "items": [
+  {
+   "n": 1,
+   "name": "杨灵-1",
+   "file": "img-01.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "yangling",
+   "category": "char"
+  },
+  {
+   "n": 2,
+   "name": "杨灵-2",
+   "file": "img-02.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "yangling",
+   "category": "char"
+  },
+  {
+   "n": 3,
+   "name": "杨灵-3",
+   "file": "img-03.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "yangling",
+   "category": "char"
+  },
+  {
+   "n": 4,
+   "name": "杨灵-4",
+   "file": "img-04.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "yangling",
+   "category": "char"
+  },
+  {
+   "n": 5,
+   "name": "陆明-1",
+   "file": "img-05.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 6,
+   "name": "陆明-2",
+   "file": "img-06.jpg",
+   "w": 1536,
+   "h": 2048,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 7,
+   "name": "陆明-3",
+   "file": "img-07.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 8,
+   "name": "陆明-4",
+   "file": "img-08.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 9,
+   "name": "陆明-5",
+   "file": "img-09.jpg",
+   "w": 960,
+   "h": 1280,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 10,
+   "name": "陆明-6",
+   "file": "img-10.jpg",
+   "w": 1536,
+   "h": 2048,
+   "group": "luming",
+   "category": "char"
+  },
+  {
+   "n": 11,
+   "name": "秦墨-1",
+   "file": "img-11.jpg",
+   "w": 1600,
+   "h": 2133,
+   "group": "qinmo",
+   "category": "char"
+  },
+  {
+   "n": 12,
+   "name": "秦墨-2",
+   "file": "img-12.jpg",
+   "w": 960,
+   "h": 1280,
+   "group": "qinmo",
+   "category": "char"
+  },
+  {
+   "n": 13,
+   "name": "秦墨-3",
+   "file": "img-13.jpg",
+   "w": 960,
+   "h": 1280,
+   "group": "qinmo",
+   "category": "char"
+  },
+  {
+   "n": 14,
+   "name": "秦墨-4",
+   "file": "img-14.jpg",
+   "w": 1536,
+   "h": 2048,
+   "group": "qinmo",
+   "category": "char"
+  }
+ ]
+}
